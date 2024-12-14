@@ -31,7 +31,7 @@ The Seawolves’ defensive front was led by graduate student Julia Patsos with 1
 - The Dukes scored two late in the set but could not complete the comeback, falling 21-25
 
 	  
-	***SET THREE***
+***SET THREE***
 
 - The Dukes held strong during this close set with the largest margin being five (21-16)  
 - JMU’s ***Cockrill*** and freshman ***Sarah Schnell*** put up two blocks a piece   
