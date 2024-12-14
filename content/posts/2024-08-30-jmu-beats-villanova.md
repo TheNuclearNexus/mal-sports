@@ -2,9 +2,10 @@
 title: JMU Field Hockey Holds on for the Win Over Villanova, 2-1
 category: "Field Hockey"
 date: 2024-08-30T16:00:00.000-0400
+summary: Junior ***Skyler Brown*** launched the game-winner early in the fourth quarter to secure James Madison Field Hockey’s season-opening win Friday, August 30th, against Villanova, 2-1.
+location: Harrisonburg, Va. 
 ---
 
-**Harrisonburg, Va.** | Junior ***Skyler Brown*** launched the game-winner early in the fourth quarter to secure James Madison Field Hockey’s season-opening win Friday, August 30th, against Villanova, 2-1.
 
 James Madison improves their season-opening win streak to six and five straight starting at home. The Wildcats move to 0-1 and face Sacred Heart for their home opener Sunday, Sept. 1\. 
 The Dukes’ scoring began in the third quarter with fifth-year ***Carissa Tambroni*** finding the back of the cage for her first career goal. Junior ***Skyler Brown*** sent the ball over sophomore goalkeeper Maddi Sears to complete the scoring for the contest. For Villanova, fifth-year Alexandria Lavelle was the solo goal scorer and Maddi Sears had two saves during the 60-minute stretch. 

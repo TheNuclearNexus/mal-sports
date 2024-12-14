@@ -1,0 +1,21 @@
+<div class="thumbnail">
+  <img src="/images/posts/{{ .File.BaseFileName }}.webp" />
+</div>
+<div class="info">
+    <header>
+        <a href="{{ .Permalink }}">{{ .Title }}</a>
+    </header>
+    <p>
+        {{ .Summary }}
+    </p>
+    <footer>
+        <span>
+            Date:
+            {{ .Date.Format "January 2, 2006" }}
+        </span>
+        <span>
+            Category:
+            {{ .Params.Category }}
+        </span>
+    </footer>
+</div>

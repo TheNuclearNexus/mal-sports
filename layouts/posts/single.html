@@ -1,5 +1,5 @@
 {{ define "meta" }}
-  {{ $style := resources.Get "sass/post.scss" | resources.ToCSS | resources.Minify }}
+  {{ $style := resources.Get "sass/posts/single.scss" | resources.ToCSS | resources.Minify }}
   <link rel="stylesheet" href="{{ $style.Permalink }}" />
 {{ end }}
 
@@ -12,6 +12,14 @@
       </p>
       <h1 class="header">{{ .Params.Title }}</h1>
     </header>
+
+    <p>
+      <strong>
+        {{ .Params.Location }}
+      </strong>
+      &ThickSpace;–&ThickSpace; {{ .Summary }}
+    </p>
+
     {{ .Content }}
   </div>
 {{ end }}

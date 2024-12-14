@@ -1,0 +1,12 @@
+@import "./post-card";
+
+ul {
+    padding: 0;
+    margin: 0;
+}
+
+h1 {
+    padding-bottom: 1rem;
+    border-bottom: 0.125rem solid var(--accent-color);
+    margin: 0;
+}

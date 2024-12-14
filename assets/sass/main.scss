@@ -1,21 +1,24 @@
 @import url("https://fonts.googleapis.com/css2?family=Lexend:wght@100..900&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap");
 
-
 $accent-color: var(--accent-color);
+$background-color: var(--background-color);
 
 :root {
   font-family: Montserrat, sans-serif;
 
-  --accent-color: #D980FA;
+  --accent-color: #E195AB;
+  --background-color: #F2F9FF;
 }
 
 body {
   margin: 0 auto;
   padding: 0;
+
+  background-color: $background-color;
 }
 
 main {
-  max-width: 60rem;
+  max-width: 70rem;
   margin-right: auto;
   margin-left: auto;
   padding: 2rem;
@@ -36,24 +39,47 @@ nav ul {
   li {
     margin: 0;
     list-style: none;
+    color: white;
   }
 
   a {
-    text-decoration: none;
     color: white;
+    text-decoration: none;
     transition: all 0.1s ease-in-out;
   }
 
   a:hover {
-    filter: brightness(90%);
+    filter: brightness(95%);
+    text-decoration: underline;
   }
 
   a:active {
-    filter: brightness(75%);
+    filter: brightness(85%);
   }
 
   .home {
     font-weight: 700;
-    color: #5758bb;
+  }
+
+  #email {
+    height: 100%;
+    display: flex;
+    align-items: center;
+
+    svg {
+      display: none;
+    }
+  }
+}
+
+@media screen and (max-width: 768px) {
+  nav ul #email {
+    svg {
+      display: block;
+    }
+
+    span {
+      display: none;
+    }
   }
 }

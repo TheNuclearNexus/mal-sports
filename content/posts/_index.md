@@ -1,3 +1,3 @@
 ---
-title: Blog
+title: All my posts
 ---
