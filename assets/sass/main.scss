@@ -1,0 +1,59 @@
+@import url("https://fonts.googleapis.com/css2?family=Lexend:wght@100..900&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap");
+
+
+$accent-color: var(--accent-color);
+
+:root {
+  font-family: Montserrat, sans-serif;
+
+  --accent-color: #D980FA;
+}
+
+body {
+  margin: 0 auto;
+  padding: 0;
+}
+
+main {
+  max-width: 60rem;
+  margin-right: auto;
+  margin-left: auto;
+  padding: 2rem;
+}
+
+li {
+  margin: 0.5rem 0rem;
+}
+
+nav ul {
+  background-color: $accent-color;
+  display: flex;
+  flex-direction: row;
+  gap: 1rem;
+  padding: 1rem;
+  margin: 0;
+
+  li {
+    margin: 0;
+    list-style: none;
+  }
+
+  a {
+    text-decoration: none;
+    color: white;
+    transition: all 0.1s ease-in-out;
+  }
+
+  a:hover {
+    filter: brightness(90%);
+  }
+
+  a:active {
+    filter: brightness(75%);
+  }
+
+  .home {
+    font-weight: 700;
+    color: #5758bb;
+  }
+}

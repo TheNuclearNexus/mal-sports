@@ -1,0 +1,29 @@
+$ascent-color: var(--accent-color);
+
+.thumbnail {
+  width: 100%;
+  position: relative;
+  z-index: -1;
+
+  border-radius: 0 0 0.5rem 0.5rem;
+}
+
+.post-body {
+  padding: 0rem 1rem;
+
+  .title {
+    margin-top: -4rem;
+    background-color: $ascent-color;
+    padding: 1rem;
+
+    .info,
+    .header {
+      margin: 0;
+      color: white;
+    }
+  }
+
+  p {
+    line-height: 1.5rem;
+  }
+}
