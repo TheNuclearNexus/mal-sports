@@ -57,7 +57,7 @@ jobs:
             --minify \
             --baseURL "${{ steps.pages.outputs.base_url }}/"
       - name: Add CNAME File
-        run: "\"malsports13.com\" > ./public/CNAME"
+        run: "echo \"malsports13.com\" > ./public/CNAME"
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
