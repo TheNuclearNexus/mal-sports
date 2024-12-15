@@ -8,6 +8,8 @@ $background-color: var(--background-color);
 
   --accent-color: #E195AB;
   --background-color: #F2F9FF;
+  --bold-color: #FFCCE1;
+  --border-color: #ced9e2;
 }
 
 body {
@@ -15,13 +17,21 @@ body {
   padding: 0;
 
   background-color: $background-color;
+
+  height: 100vh;
+
+  display: flex;
+  flex-direction: column;
 }
 
 main {
+  width: 100%;
   max-width: 70rem;
   margin-right: auto;
   margin-left: auto;
   padding: 2rem;
+
+  flex-grow: 1;
 }
 
 li {

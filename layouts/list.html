@@ -1,0 +1,8 @@
+{{ define "meta" }}
+    {{ partial "sass" "sass/home/post-gallery.scss" }}
+{{ end }}
+{{ define "main" }}
+  {{ with .Site.GetPage "/posts" }}
+    {{ partial "home/post-gallery.html" (sort .Pages "Date" "desc" | first 6) }}
+  {{ end }}
+{{ end }}

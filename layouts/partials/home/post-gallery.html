@@ -1,0 +1,122 @@
+<script type="module">
+  /**
+   * @type {HTMLElement}
+   */
+  let carasouel;
+  /**
+   * @type {HTMLElement}
+   */
+  let slideTrack;
+  /**
+   * @type {HTMLElement[]}
+   */
+  let slides;
+  /**
+   * @type {HTMLElement[]}
+   */
+  let cards;
+
+
+
+  function resizeSlides() {
+    carasouel = document.querySelector(".carasouel");
+
+    slideTrack = carasouel.querySelector("ul");
+
+    slides = carasouel.querySelectorAll("ul > li");
+
+    slides.forEach((li) => {
+      li.style.setProperty("width", carasouel.clientWidth + "px");
+    });
+
+    cards = [...document.querySelectorAll(".cards > li")]
+
+    cards.forEach((li) => {
+      const index = Number.parseInt(li.getAttribute("data-index"));
+      li.addEventListener("click", () => swapSlide(index));
+    });
+
+    updateSlideTrack(Number.parseInt(slideTrack.getAttribute("data-index")));
+  }
+
+  /**
+   * @param {number} index
+   */
+  function updateSlideTrack(index) {
+    slideTrack.style.setProperty(
+      "transform",
+      `translate3d(${(index) * -carasouel.clientWidth}px, 0, 0)`,
+    );
+  }
+
+  /**
+   * @param {number} index
+   */
+  function swapSlide(index) {
+    console.log(index);
+
+    slideTrack.setAttribute("data-index", index);
+    updateSlideTrack(index);
+
+    cards.forEach(card => card.classList.remove("active"))
+    cards.find(card => card.getAttribute("data-index") == index).classList.add('active')
+
+    clearTimeout(slideTimeout)
+    slideTimeout = setTimeout(goToNextSlide, 5000)
+  }
+
+  function goToNextSlide() {
+    const index = Number.parseInt(slideTrack.getAttribute("data-index"));
+
+    swapSlide((index + 1) % slides.length);
+  }
+
+  let slideTimeout = setTimeout(goToNextSlide, 5000);
+
+  window.addEventListener("resize", resizeSlides);
+  document.addEventListener("DOMContentLoaded", resizeSlides);
+</script>
+
+<div class="gallery">
+  <!-- image carasouel -->
+  <div class="carasouel">
+    <ul data-index="0">
+      {{ range $i, $page := . }}
+        {{ partial "home/post-slide" (dict "index" $i "page" .) }}
+      {{ end }}
+    </ul>
+  </div>
+  <!-- small cards -->
+  <ul class="cards">
+    {{ range $i, $page := . }}
+      {{ partial "home/post-card" (dict "index" $i "page" .) }}
+    {{ end }}
+  </ul>
+</div>
+
+{{ define "partials/home/post-slide.html" }}
+  {{ $i := .index }}
+  {{ with .page }}
+    <li data-index="{{ $i }}">
+      <img src="/images/posts/{{ .File.BaseFileName }}.webp" />
+      <header>
+        {{ .Title }}
+      </header>
+      <p>{{ .Summary }}</p>
+    </li>
+  {{ end }}
+{{ end }}
+
+{{ define "partials/home/post-card.html" }}
+  {{ $i := .index }}
+  {{ with .page }}
+    <li data-index="{{ $i }}" class="{{ if eq $i 0 }}active{{ end }}">
+      <div>
+        <img src="/images/posts/{{ .File.BaseFileName }}.webp" />
+      </div>
+      <div class="title">
+        <span>{{ .Title }}</span>
+      </div>
+    </li>
+  {{ end }}
+{{ end }}
