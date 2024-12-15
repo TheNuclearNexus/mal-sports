@@ -29,6 +29,8 @@
       li.style.setProperty("width", carasouel.clientWidth + "px");
     });
 
+    slideTrack.style.setProperty("width", (carasouel.clientWidth * slides.length) + "px")
+
     cards = [...document.querySelectorAll(".cards > li")]
 
     cards.forEach((li) => {
@@ -100,7 +102,7 @@
     <li data-index="{{ $i }}">
       <img src="/images/posts/{{ .File.BaseFileName }}.webp" />
       <header>
-        {{ .Title }}
+        <a href="{{ .Path }}">{{ .Title }}</a>
       </header>
       <p>{{ .Summary }}</p>
     </li>

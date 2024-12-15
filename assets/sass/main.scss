@@ -12,6 +12,10 @@ $background-color: var(--background-color);
   --border-color: #ced9e2;
 }
 
+* {
+  box-sizing: border-box;
+}
+
 body {
   margin: 0 auto;
   padding: 0;
@@ -91,5 +95,9 @@ nav ul {
     span {
       display: none;
     }
+  }
+
+  main {
+    padding: 0.75rem;
   }
 }
