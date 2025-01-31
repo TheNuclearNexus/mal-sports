@@ -1,6 +1,11 @@
+
 {{ define "meta" }}
   {{ $style := resources.Get "sass/posts/single.scss" | css.Sass | resources.Minify }}
   <link rel="stylesheet" href="{{ $style.Permalink }}" />
+  <meta name="description" content="{{ .Params.Summary }}">
+  <meta name="og:image" content="/images/posts/{{ .File.BaseFileName }}.webp"/>
+
+  <title>{{ .Params.Title }}</title>
 {{ end }}
 
 {{ define "main" }}

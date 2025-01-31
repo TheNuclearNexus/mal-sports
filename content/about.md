@@ -2,4 +2,4 @@
 title: About
 ---
 
-hi :)
+Page is under construction, check back later.
