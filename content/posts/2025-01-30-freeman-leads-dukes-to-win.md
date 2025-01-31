@@ -1,7 +1,7 @@
 ---
 title: Freeman’s Offensive Show Leads the Dukes to Win Over Coastal Carolina, 73-64
 category: "Field Hockey"
-date: 2025-01-30T00:00:00.000-0400
+date: 2025-01-30T19:00:00.000-0500
 summary: Mark Freeman's 29 points led James Madison to a 73-64 win over Coastal Carolina, keeping the Dukes unbeaten in the matchup.
 location: Harrisonburg, Va. 
 ---
@@ -20,8 +20,8 @@ The Chanticleers’ offense was led by Jordan Battle and RaSheed Jones with 17 p
 
 * JMU started the game with a quick pair of baskets from junior ***Xavier Brown*** to jump out 5-0 after winning the jump.  
 * The Chanticleers answered offensively and kept the game within four (28-24) until 5:02 remained in the first half.  
-* ***Freeman gave the Dukes a four-point lead to start a run of six points to push the margin up to 10\.***  
-* ***Coastal scored three to end the half down six (36-30).***
+* ***Freeman*** gave the Dukes a four-point lead to start a run of six points to push the margin up to 10\.
+* Coastal scored three to end the half down six (36-30).
 
 ***SECOND HALF \- JAMES MADISON 37, COASTAL CAROLINA 34***
 
@@ -34,8 +34,8 @@ The Chanticleers’ offense was led by Jordan Battle and RaSheed Jones with 17 p
 
 * The Men’s Basketball Dukes’ overall record against the Chanticleers’ now sits at 6-0 (4-0 in Sun Belt play)  
 * This is ***Freeman's*** third straight game shooting more than 50% from the floor; 57.1% combined.  
-* ***Freeman with 29 points makes this his fourth 20+ point game of the season.***   
-* ***With two steals today, Brown now has 100 career steals.***  
+* ***Freeman*** with 29 points makes this his fourth 20+ point game of the season.***
+* With two steals today, ***Brown** now has 100 career steals.  
 * JMU is now 12-4 when leading at halftime, and CCU is 0-11 when trailing at the half.  
 * Coastal averages 10.8 offensive rebounds in SBC play, tonight they only had five.
 

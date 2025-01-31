@@ -1,7 +1,7 @@
 ---
 title: JMU Field Hockey Holds on for the Win Over Villanova, 2-1
 category: "Field Hockey"
-date: 2024-08-30T16:00:00.000-0400
+date: 2024-08-30T16:00:00.000-0500
 summary: Junior ***Skyler Brown*** launched the game-winner early in the fourth quarter to secure James Madison Field Hockey’s season-opening win Friday, August 30th, against Villanova, 2-1.
 location: Harrisonburg, Va. 
 ---
