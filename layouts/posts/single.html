@@ -1,5 +1,5 @@
 {{ define "meta" }}
-  {{ $style := resources.Get "sass/posts/single.scss" | resources.ToCSS | resources.Minify }}
+  {{ $style := resources.Get "sass/posts/single.scss" | css.Sass | resources.Minify }}
   <link rel="stylesheet" href="{{ $style.Permalink }}" />
 {{ end }}
 

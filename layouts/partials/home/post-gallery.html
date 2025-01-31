@@ -16,8 +16,6 @@
    */
   let cards;
 
-
-
   function resizeSlides() {
     carasouel = document.querySelector(".carasouel");
 
@@ -29,9 +27,12 @@
       li.style.setProperty("width", carasouel.clientWidth + "px");
     });
 
-    slideTrack.style.setProperty("width", (carasouel.clientWidth * slides.length) + "px")
+    slideTrack.style.setProperty(
+      "width",
+      carasouel.clientWidth * slides.length + "px",
+    );
 
-    cards = [...document.querySelectorAll(".cards > li")]
+    cards = [...document.querySelectorAll(".cards > li")];
 
     cards.forEach((li) => {
       const index = Number.parseInt(li.getAttribute("data-index"));
@@ -47,7 +48,7 @@
   function updateSlideTrack(index) {
     slideTrack.style.setProperty(
       "transform",
-      `translate3d(${(index) * -carasouel.clientWidth}px, 0, 0)`,
+      `translate3d(${index * -carasouel.clientWidth}px, 0, 0)`,
     );
   }
 
@@ -60,11 +61,13 @@
     slideTrack.setAttribute("data-index", index);
     updateSlideTrack(index);
 
-    cards.forEach(card => card.classList.remove("active"))
-    cards.find(card => card.getAttribute("data-index") == index).classList.add('active')
+    cards.forEach((card) => card.classList.remove("active"));
+    cards
+      .find((card) => card.getAttribute("data-index") == index)
+      .classList.add("active");
 
-    clearTimeout(slideTimeout)
-    slideTimeout = setTimeout(goToNextSlide, 5000)
+    clearTimeout(slideTimeout);
+    slideTimeout = setTimeout(goToNextSlide, 5000);
   }
 
   function goToNextSlide() {
@@ -89,11 +92,14 @@
     </ul>
   </div>
   <!-- small cards -->
-  <ul class="cards">
-    {{ range $i, $page := . }}
-      {{ partial "home/post-card" (dict "index" $i "page" .) }}
-    {{ end }}
-  </ul>
+  <div style="display: flex; flex-direction: column; gap: 1rem;">
+    <ul class="cards">
+      {{ range $i, $page := . }}
+        {{ partial "home/post-card" (dict "index" $i "page" .) }}
+      {{ end }}
+    </ul>
+    <a id="more-posts" href="/posts">View More Posts</a>
+  </div>
 </div>
 
 {{ define "partials/home/post-slide.html" }}
@@ -113,6 +119,7 @@
   {{ $i := .index }}
   {{ with .page }}
     <li data-index="{{ $i }}" class="{{ if eq $i 0 }}active{{ end }}">
+      <div class="flare"></div>
       <div>
         <img src="/images/posts/{{ .File.BaseFileName }}.webp" />
       </div>
