@@ -2,11 +2,9 @@
 title: Freeman’s Offensive Show Leads the Dukes to Win Over Coastal Carolina, 73-64
 category: "Basketball"
 date: 2025-01-30T19:00:00.000-0500
-summary: Mark Freeman's 29 points led James Madison to a 73-64 win over Coastal Carolina, keeping the Dukes unbeaten in the matchup.
+summary: Redshirt senior ***Mark Freeman*** led the James Madison men’s basketball team with 29 points off the bench as the Dukes persevered for a 73-64 win over Coastal Carolina. 
 location: Harrisonburg, Va. 
 ---
-
-Redshirt senior ***Mark Freeman*** led the James Madison men’s basketball team with 29 points off the bench as the Dukes persevered for a 73-64 win over Coastal Carolina. 
 
 James Madison moves to 13-9 (6-4 SBC) while Coastal Carolina now sits at 8-14 (1-9 SBC). JMU finished with a season-low two turnovers, while CCU only had five assists. 
 
