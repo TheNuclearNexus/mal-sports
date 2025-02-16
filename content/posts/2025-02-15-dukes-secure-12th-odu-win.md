@@ -6,11 +6,6 @@ summary: The James Madison women’s basketball team takes the 12th straight ove
 location: Harrisonburg, Va.   
 ---
 
-**Dukes Women’s Basketball Push to 12th Straight Over ODU, 66-53**  
- 
-Game Recap: Women’s Basketball 2/15/2025 2:00 pm EST 
-
-**Harrisonburg, Va.** | The James Madison women’s basketball team takes the 12th straight over Old Dominion led by redshirt junior ***Peyton McDaniel’s*** eighth 20+ point game (23) of the season, 66-53, at the Atlantic Union Bank Center. 
 
 JMU now sits at 23-4 (14-0 SBC) while ODU moves to 14-13 (6-8 SBC). The Dukes’ 14-0 start in the conference for the second time in program history, the last time being the 2014-15 season. 
 
