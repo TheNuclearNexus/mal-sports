@@ -47,7 +47,7 @@ Defense was led by junior ***Ashanti Barnes*** with a dominating career-high per
 * Attendance marked 4,375 which is the largest crowd for a women's basketball game at the Atlantic Union Bank Center.  
 * JMU shot .500 from the field in both wins over ODU this season (33-for-66 in Norfolk 2/1/25, 24-for-48 in Harrisonburg 2/15/25)    
 * ODU’s 22 points in the first half is its lowest in Sun Belt play of the season.   
-* Redshirt senior ***Jamia Hazell*** has the record for games played with 148\.
+* Redshirt senior ***Jamia Hazell*** has the women's record for games played with 148\.
 
 **Up Next**  
 The James Madison Dukes (23-4, 14-0 SBC) head to Atlanta, on Wednesday, February 19th to face the Panthers of Georgia State (13-12, 6-7 SBC). The game is set to start at 6:30 pm EST and will be streamed on ESPN+.   
