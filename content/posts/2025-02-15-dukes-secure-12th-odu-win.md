@@ -50,4 +50,4 @@ Defense was led by junior ***Ashanti Barnes*** with a dominating career-high per
 * Redshirt senior ***Jamia Hazell*** has the women's record for games played with 148\.
 
 **Up Next**  
-The James Madison Dukes (23-4, 14-0 SBC) head to Atlanta, on Wednesday, Feb 19 to face the Panthers of Georgia State (13-12, 6-7 SBC). The game is set to start at 6:30 pm EST and will be streamed on ESPN+.   
+The James Madison Dukes (23-4, 14-0 SBC) head to Atlanta, on Wednesday, Feb. 19 to face the Panthers of Georgia State (13-12, 6-7 SBC). The game is set to start at 6:30 pm EST and will be streamed on ESPN+.   
