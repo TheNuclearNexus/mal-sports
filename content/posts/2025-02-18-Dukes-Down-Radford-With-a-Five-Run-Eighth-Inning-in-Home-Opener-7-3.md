@@ -38,7 +38,7 @@ The Dukes’ win was led by freshman ***Reece Moody*** going 3-for-4 with his fi
 
 **Ninth inning \- JMU 7, RU 3**
 
-- RU started off the ninth with a single before redshirt junior ***Tyler Muscar*** locked in the win with three outs following the led batter. 
+- RU started the ninth with a single before redshirt junior ***Tyler Muscar*** locked in the win with three outs following the led batter. 
 
 **Game Notes**
 
@@ -48,4 +48,4 @@ The Dukes’ win was led by freshman ***Reece Moody*** going 3-for-4 with his fi
 * JMU successfully stole six bases in the win, pushing them to 10-11 on the season. 
 
 **Up Next**  
-James Madison continues the homestand with their series against Canisius (0-0, 0-0 MAAC). The first game of the three-game series will take place on Friday, Feb. 21 at Eagle Field at Veterans Memorial Park. First pitch is scheduled for 3 pm; listen along on the Varsity Network App. 
+James Madison continues the homestand with their series against Canisius (0-0, 0-0 MAAC). The first game of the three-game series will take place on Friday, Feb. 21 at Eagle Field at Veterans Memorial Park. The first pitch is scheduled for 3 pm; listen along on the Varsity Network App. 
