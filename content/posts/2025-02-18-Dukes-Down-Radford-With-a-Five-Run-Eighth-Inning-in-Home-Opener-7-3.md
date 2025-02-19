@@ -6,7 +6,7 @@ summary: James Madison Baseball downs Radford University in home opener with a f
 location: Harrisonburg, Va.   
 ---  
 
-JMU secured its first win of the season, now sitting at 1-3 (0-0 SBC) while RU 1-3 (0-0 Big South). The Dukes grab the win in the first of their eight game homestand for the fourth straight home opening win. 
+JMU secured its first win of the season, now sitting at 1-3 (0-0 SBC) while RU moves to 1-3 (0-0 Big South). The Dukes grab the win in the first of their eight game homestand for the fourth straight home opening win. 
 
 The Dukes’ win was led by freshman ***Reece Moody*** going 3-for-4 with his first collegiate hit being a triple in the fifth inning. Along with the triple, *Moody* had two runs scored, and two RBI’s. Graduate Student ***Corey Dowdell*** put James Madison ahead with a two-run home run off the centerfield lightpost to start off the rally in the fifth inning, 
 
@@ -36,7 +36,7 @@ The Dukes’ win was led by freshman ***Reece Moody*** going 3-for-4 with his fi
 
 - The Dukes started off the eighth with a hit-by-pitch for senior ***Ryan Dooley***. After a groundout, *Dowdell*’s at-bat resulted in a go-ahead two-run home run launched into center. A pair of drawn by *Schmidly* and junior ***Jack Cannizzaro*** followed by a double steal to get into scoring position, *Moody* singled to left resulting in two more RBIs on the day. The scoring rally ended with an RBI single from junior ***Wyatt Peifer***, scoring *Moody* and giving James Madison a four-run cushion going to the top of the ninth. 
 
-**ninth inning**
+**Ninth inning \- JMU 7, RU 3**
 
 - RU started off the ninth with a single before redshirt junior ***Tyler Muscar*** locked in the win with three outs following the led batter. 
 
