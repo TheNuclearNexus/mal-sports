@@ -2,7 +2,7 @@
 title: Dukes Down Radford With a Five-Run Eighth Inning in Home Opener, 7-3  
 category: "Baseball"  
 date: 2025-02-18T15:00:00.000-0500  
-summary: James Madison Baseball down Radford University in home opener with a five-run eighth inning at Eagle Field at Veterans Memorial Park Tuesday afternoon.  
+summary: James Madison Baseball downs Radford University in home opener with a five-run eighth inning at Eagle Field at Veterans Memorial Park Tuesday afternoon.  
 location: Harrisonburg, Va.   
 ---  
 
