@@ -34,7 +34,9 @@ The Dukes’ win was led by freshman ***Reece Moody*** going 3-for-4 with his fi
 
 ***Eighth inning \- JMU 7, RU 3***
 
-- The Dukes started off the eighth with a hit-by-pitch for senior ***Ryan Dooley***. After a groundout, *Dowdell*’s at-bat resulted in a go-ahead two-run home run launched into center. A pair of drawn by *Schmidly* and junior ***Jack Cannizzaro*** followed by a double steal to get into scoring position, *Moody* singled to left resulting in two more RBIs on the day. The scoring rally ended with an RBI single from junior ***Wyatt Peifer***, scoring *Moody* and giving James Madison a four-run cushion going to the top of the ninth. 
+- The Dukes started off the eighth with a hit-by-pitch for senior ***Ryan Dooley***. After a groundout, *Dowdell*’s at-bat resulted in a go-ahead two-run home run launched into center.
+- A pair of walks drawn by *Schmidly* and junior ***Jack Cannizzaro*** followed by a double steal to get into scoring position, *Moody* singled to left resulting in two more RBIs on the day.
+- The scoring rally ended with an RBI single from junior ***Wyatt Peifer***, scoring *Moody* and giving James Madison a four-run cushion going to the top of the ninth. 
 
 **Ninth inning \- JMU 7, RU 3**
 
