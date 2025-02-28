@@ -10,7 +10,8 @@ JMU improved to 3-7, finishing with 10 runs, 11 hits, and one error. RMU recorde
 
 Senior ***Jasmine Hall*** led the Dukes offensively with three RBIs, going 2-for-3 with one run. Freshman ***Cali Legzdin*** went 3-for-3 with a single, and two doubles, improving her batting average to .429. *Legzdin* recorded an RBI and two runs with JMU’s third 3-for-3 appearance of the season in her home debut. 
 
-Graduate student ***Reed Butler*** tallied a run and an RBI in her 2-for-3 day at the plate including an RBI double down the leftfield line during the bottom of the second. Senior ***Lexi Rogers*** went 2-for-2 with a single and a double.   
+Graduate student ***Reed Butler*** tallied a run and an RBI in her 2-for-3 day at the plate including an RBI double down the leftfield line during the bottom of the second. Senior ***Lexi Rogers*** went 2-for-2 with a single and a double.  
+
 Redshirt sophomore ***Payton List*** secured the win today, improving her record to 2-1 in the circle. In her third start of the season, *List* allowed one hit in three innings pitched and faced 13 batters. Offensively, *List* went 2-for-3 with a single and a two-run home run to right field. 
 
 **How it happened**
@@ -36,5 +37,5 @@ Redshirt sophomore ***Payton List*** secured the win today, improving her record
 * Only allowing one hit today marks the first time since the one-hitter (combined) against Elon on May 5, 2017 (Megan Good and Odicci Alexander)
 
 **Up Next**  
-James Madison heads to Salem, Va, to play in the Hokie Invite. The Dukes are set to face Robert Morris again tomorrow, Feb. 28, for the first of four matchups in the tournament. First pitch is set for 3 p.m. 
+James Madison (3-7) will head to Salem, Va, to play in the Hokie Invitational Feb. 28 - Mar. 2. The Dukes are set to face Robert Morris (2-1) again tomorrow, Feb. 28, for the first of four matchups in the tournament. First pitch is set for 3 p.m. 
 
