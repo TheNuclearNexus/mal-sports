@@ -2,7 +2,7 @@
 title: Eight-Run Second Inning Rockets Softball Past Robert Morris in Five, 10-0  
 category: "Softball"  
 date: 2025-02-27T16:00:00.000-0500  
-summary:  James Madison University softball dominates in home opener against Robert Morris in five-innings, 10-0, at Veterans Memorial Park.   
+summary:  James Madison University softball used an eight-run second inning to rocket past Robert Morris in home opener in five-innings, 10-0, at Veterans Memorial Park.   
 location: Harrisonburg, Va.   
 ---  
 
