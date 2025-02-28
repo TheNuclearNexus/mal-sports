@@ -28,7 +28,7 @@ Redshirt sophomore ***Payton List*** secured the win today, improving her record
 ***Fourth inning \- JMU 2, RMU 0***
 
 * With two outs, *Legzdin* doubled to advance junior ***Kate Carrier*** to third.  
-* *Hall* singled to score *Legzdin* and *Carrier*, furthering the Dukes’ led to 10\. 
+* *Hall* singled to score *Legzdin* and *Carrier*, furthering the Dukes’ lead to 10\. 
 
 **Game Notes**
 
