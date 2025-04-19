@@ -6,7 +6,10 @@ Summary: James Madison Softball was held to two hits in the loss of the seriesâ€
 location: Harrisonburg, Va.  
 ---  
 
-JMU (21-22, 7-10 SBC) received its two hits from sophomore ***Payton List*** and freshman ***Raegan Wall***. USM (20-24, 8-9 SBC) earned its eighth win in Sun Belt play under a complete shutout game from freshman Kayla Giardina. 
+JMU (21-22, 7-10 SBC) received its two hits from sophomore ***Payton List*** and freshman ***Raegan Wall***. Freshman ***Madalyn Johnson*** spun 4.1 innings from the circle recording two strikeouts, and allowing four hits with two earned runs. 
+
+USM (20-24, 8-9 SBC) earned its eighth win in Sun Belt play under a complete shutout game from freshman Kayla Giardina. 
+
 
 **How it happened**
 
@@ -22,6 +25,7 @@ JMU (21-22, 7-10 SBC) received its two hits from sophomore ***Payton List*** and
 
 * James Madison holds the advantage 3-2 in the all-time series over Southern Miss  
 * ***Kylee Gleason*** is two hits away from hit 100.
+* JMU avoided any strikeouts at the plate for the third time this season. 
 
 **Up Next**
 
