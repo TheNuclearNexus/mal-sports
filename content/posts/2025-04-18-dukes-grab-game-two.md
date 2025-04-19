@@ -23,7 +23,7 @@ Senior ***Abbie Campbell*** had the first RBI of the game to get the Dukes on th
 ***Fourth inning \-  JAMES MADISON 5, SOUTHERN MISS 2***
 
 * *Campbell* took the plate with bases loaded, batting into a fielder's choice, to put the Dukes on the board.  
-* *Romero* sent a ball into left field sending *Edwards* home to tie the game with two a piece*.*   
+* *Romero* sent a ball into left field sending *Edwards* home to tie the game with two a piece.   
 * On a 3-1 count, *List* launched a three-run home run over the right-center wall, giving JMU its first lead of the game. 
 
 ***Top of the Fifth inning \-  JAMES MADISON 5, SOUTHERN MISS 5***
