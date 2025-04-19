@@ -33,13 +33,15 @@ Senior ***Abbie Campbell*** had the first RBI of the game to get the Dukes on th
 
 * *Romero* singled through the left side, knocking in freshman ***Reagan Wall*** and Edwards, pushing the Dukes to the 7-5 advantage.  
 
+
 **Game Notes**
 
 * James Madison leads the all-time series 3-1 over Southern Miss  
 * This is the third straight conference series win for the Dukes  
-* *Romero* continues to dominate the Sun Belt grabbing her 12th running stealing*.*   
-* Cali Legzdin is second in the conference with 18 stolen bases.   
+* *Romero* continues to dominate the Sun Belt grabbing her 12th running stealing   
+* Freshman ***Cali Legzdin*** is second in the conference with 18 stolen bases.   
 * Coach LaPorte is one win away from her 250th career win.  
+
 
 **Up Next**
 
