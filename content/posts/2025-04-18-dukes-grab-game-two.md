@@ -7,6 +7,7 @@ location: Harrisonburg, Va.
 ---  
 
 JMU secured the series win, now 21-21 (7-10 SBC) and USM moved to 20-24 (7-9 SBC).   
+
 The offensive effort was led by clutch hitting from *Romero*, going 2-for-3 with a run, two RBI singles, and three RBIs overall. The California native knocked in sophomore ***Madison Edwards*** to tie the game in the fourth and drove in the go-ahead two-RBI single to secure the victory.
 
 Senior ***Abbie Campbell*** had the first RBI of the game to get the Dukes on the scoreboard in the bottom of the fourth inning on a fielder's choice to shortstop. 
