@@ -2,7 +2,7 @@
 title: Dukes Grab Game Two Against Lady Eagles  
 category: "Softball"  
 date: 2025-04-18T17:00:00.000-0500  
-Summary: Senior ***Lily Romero*** and sophomore ***Payton List*** front three RBIs respectively in a 7-5 win over Southern Miss on Friday night in Veterans Memorial Park in Sun Belt action.   
+Summary: Harrisonburg Va. | Senior ***Lily Romero*** and sophomore ***Payton List*** front three RBIs respectively in a 7-5 win over Southern Miss on Friday night in Veterans Memorial Park in Sun Belt action.   
 ---  
 
 JMU secured the series win, now 21-21 (7-10 SBC) and USM moved to 20-24 (7-9 SBC).   
