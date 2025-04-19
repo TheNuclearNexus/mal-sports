@@ -12,7 +12,7 @@ The offensive effort was led by clutch hitting from *Romero*, going 2-for-3 with
 
 Senior ***Abbie Campbell*** had the first RBI of the game to get the Dukes on the scoreboard in the bottom of the fourth inning on a fielder's choice to shortstop. 
 
-*List*, also recording three RBIs, sent a rocket three-run home run over the right-center wall with two outs in the top of the fifth to take the first lead of the night. *List* entered the circle in the bottom of the fifth only allowing two hits, and recording three strikeouts. Sophomore ***Kirsten Fleet*** started in the circle, recording four complete with four strikeouts. 
+*List*, also recording three RBIs, sent a rocket three-run home run over the right-center wall with two outs in the top of the fifth to take the first lead of the night. *List* entered the circle in the bottom of the fifth only allowing two hits, recording three strikeouts, and recording her ninth win of the season. Sophomore ***Kirsten Fleet*** started in the circle, recording four complete with four strikeouts. 
 
 **How it happened**
 
