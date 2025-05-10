@@ -9,6 +9,49 @@ section#gallery {
   margin:auto;
 }
 
+section#social-media {
+  display: flex;
+  flex-direction: column;
+
+  header {
+    display: flex;
+    justify-content: center;
+  }
+
+  .match {
+    text-align: center;
+  }
+
+  h2, h3 {
+    color: var(--accent-color);
+  }
+
+  .tweets {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 100%;
+    
+    padding: 1rem 2rem;
+
+    justify-content: center;
+
+    gap: 1rem;
+
+    margin: 0;
+  }
+
+  .tweets > li {
+    list-style: none;
+
+    width: max-content;
+  }
+
+  .twitter-tweet {
+    max-width: 24rem !important;
+  }
+}
+
 section#graphics {
   background-color: var(--section-color);
   padding-bottom: 2rem;
@@ -33,6 +76,7 @@ section#graphics > header {
     margin: 0;
   }
 }
+
 section.examples {
   display: flex;
   flex-direction: column;
