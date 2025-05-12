@@ -11,11 +11,7 @@ Beyond athletics, **I'm deeply committed to mental health advocacy**. I founded 
 I'm skilled in tools such as **Adobe Creative Suite, Canva, Sidearm Sports, Statcrew, and DAKTRONICS**, and I'm comfortable managing social media across platforms such as **Instagram, X, TikTok, YouTube, and mor**e.
 
 I thrive in dynamic, team-oriented environments where I can communicate, connect, and create meaningful impact.
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
+<div style="margin-top: 2rem;"/>
 
 
 ## ***Endorsement from Mrs. Dona Rodgers (Morgan’s Message)***
