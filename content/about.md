@@ -19,6 +19,7 @@ I thrive in dynamic, team-oriented environments where I can communicate, connect
 
 
 
+
 ***Endorsement from Mrs. Dona Rodgers (Morgan’s Message)***
 
 
