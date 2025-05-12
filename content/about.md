@@ -13,7 +13,8 @@ I'm skilled in tools such as **Adobe Creative Suite, Canva, Sidearm Sports, Stat
 I thrive in dynamic, team-oriented environments where I can communicate, connect, and create meaningful impact.
 
 <div style="height: 2rem;width: 2rem;"/>
-
+<hr/>
+<hr/>
 
 #### ***Endorsement from Mrs. Dona Rodgers (Morgan’s Message)***
 
