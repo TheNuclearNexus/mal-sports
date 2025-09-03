@@ -25,7 +25,7 @@ The Rangers came out capitalizing on offense, earning four more corner kicks wit
    
 The defensive battle was put to an end as the Valiants got outshot 14-3. The Rangers’ 12 corners and 11 shots on goal pushed them to the victory over Manhattanville.  
    
-Game Notes  
+***Game Notes*** 
    With eight saves during the match, Girard is now three saves away from 250 in her career.  
    Cioffi produced two of the three shots on goal during the match.  
    Junior Kailey Roxo added the third shot to the count.
