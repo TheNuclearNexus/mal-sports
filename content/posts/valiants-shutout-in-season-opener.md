@@ -1,7 +1,7 @@
 ---
 title: Valiants Shutout 0-6 in Season Opener
 category: "Field Hockey"
-date: 2025-08-29T17:00:00.000-0500  
+date: 2025-08-30T17:00:00.000-0500  
 summary: Manhattanville field hockey was shutout, 0-6, by Ramapo in season opener on Saturday evening.
 location: MAHWAH, NJ 
 ---
