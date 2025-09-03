@@ -1,6 +1,12 @@
-   
-**PURCHASE, N.Y.**  Manhattanville field hockey grabbed the first goal of the season, from Fiona Doherty, in a 5-1 loss in the home opener on Tuesday afternoon.  
-   
+---
+title: Doherty Scores First for 2025, Valiants Fall to Rangers
+category: "Field Hockey"
+date: 2025-09-02T16:00:00.000-0500  
+summary: Manhattanville field hockey grabbed the first goal of the season, from Fiona Doherty, in a 5-1 loss in the home opener on Tuesday afternoon.
+location: PURCHASE, N.Y. 
+---
+
+
 The Valiants move to 0-2 while the Rangers (2-0) grab their second of the year.  
    
 ***FIRST HALF***  
