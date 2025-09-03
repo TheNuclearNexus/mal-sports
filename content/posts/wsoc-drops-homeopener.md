@@ -1,4 +1,11 @@
-**PURCHASE, N.Y. –** Manhattanville women’s soccer dropped its season opener to Drew, 3-0, in Purchase, NY on Saturday evening.    
+---
+title: Women’s Soccer Drops Season Opener, 0-3
+category: "Women's Soccer"
+date: 2025-08-29T18:00:00.000-0500
+summary: Manhattanville women’s soccer dropped its season opener to Drew, 3-0, in Purchase, NY on Saturday evening.
+location: PURCHASE, N.Y. 
+---
+
    
 The Valiants start the season 0-1-0 while the Rangers earn its first victory sitting 1-0-0.  
    
