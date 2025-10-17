@@ -1,4 +1,11 @@
-**HARRISONBURG, Va. \-** She’s carved out a career by leaning into opportunities, trusting her instincts, and staying grounded in her passion for sports. Whether she’s on the sidelines, behind the scenes, or leading a department, Meghan Kalenborn is a reminder that in athletic communications, gold isn’t a finish line. It’s a journey.
+---
+title: Chasing the Gold: How Meghan Kalenborn Is Shaping the Future of 
+Athletic Communications
+category: ""
+date: 2025-10-17T18:00:00.000-0500  
+summary: She’s carved out a career by leaning into opportunities, trusting her instincts, and staying grounded in her passion for sports. Whether she’s on the sidelines, behind the scenes, or leading a department, Meghan Kalenborn is a reminder that in athletic communications, gold isn’t a finish line. It’s a journey.
+location: HARRISONBURG, Va.
+---
 
 For Meghan, sports have never been just a pastime — they’ve been a guiding force and a career compass. From her earliest days, growing up in New York with her mom’s love of local teams, Meghan’s path has always been shaped by athletics. “I grew up with sports,” she reflects. “It was part of my family, part of our conversations, part of who I was.”
 
