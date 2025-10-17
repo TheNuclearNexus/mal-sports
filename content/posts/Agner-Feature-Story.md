@@ -1,5 +1,5 @@
 ---
-title: Chasing the Gold\: How Meghan Kalenborn Is Shaping the Future of Athletic Communications
+title: "Chasing the Gold: How Meghan Kalenborn Is Shaping the Future of Athletic Communications"
 category: "Story"
 date: 2025-10-17T18:00:00.000-0500  
 summary: She’s carved out a career by leaning into opportunities, trusting her instincts, and staying grounded in her passion for sports. Whether she’s on the sidelines, behind the scenes, or leading a department, Meghan Kalenborn is a reminder that in athletic communications, gold isn’t a finish line. It’s a journey.
