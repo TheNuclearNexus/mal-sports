@@ -88,14 +88,16 @@ section.examples {
 section.examples > ul {
   margin: 0;
 
-  padding: 1rem 4rem;
+  padding: 1rem 2rem;
 
   display: grid;
-  grid-template-columns: repeat(3, auto);
+  grid-template-columns: repeat(4, 1fr);
   grid-template-rows: auto;
 
   gap: 1rem;
   box-sizing: border-box;
+  width: 100%;
+  max-width: 96rem;
 
   li {
     width: 100%;
@@ -104,12 +106,27 @@ section.examples > ul {
     padding: 0;
   }
 
+  li > a {
+    display: block;
+    line-height: 0;
+    height: 100%;
+  }
+
   img {
     height: 100%;
     width: 100%;
+    aspect-ratio: 1 / 1;
+    object-fit: cover;
+    display: block;
   }
 
   position: relative;
+}
+
+@media screen and (max-width: 768px) {
+  section.examples > ul {
+    grid-template-columns: repeat(2, 1fr);
+  }
 }
 
 section.examples > h3 {
