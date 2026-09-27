@@ -2,11 +2,6 @@
   {{ partial "sass" "sass/home/post-gallery.scss" }}
   {{ partial "sass" "sass/home/main.scss" }}
   <title>{{ .Params.Title }}</title>
-  <script
-    async
-    src="https://platform.twitter.com/widgets.js"
-    charset="utf-8"
-  ></script>
 {{ end }}
 {{ define "main" }}
   <section id="gallery">
@@ -54,10 +49,43 @@
       </ul>
     </section>
   </section>
-  <section id="social-media">
+  <section id="day-to-day">
     <header>
-      <h2>Example Social Media</h2>
+      <h2>Day to Day Graphics</h2>
     </header>
-    {{ partial "home/tweets.html" }}
+    <section class="examples">
+      <ul class="day-to-day-row">
+        <li>
+          <figure>
+            <img src="/images/graphics/dtd-1.webp" alt="WTEN Match day" />
+            <figcaption>WTEN Match day</figcaption>
+          </figure>
+        </li>
+        <li>
+          <figure>
+            <img src="/images/graphics/dtd-2.webp" alt="WTEN Schedule" />
+            <figcaption>WTEN Schedule</figcaption>
+          </figure>
+        </li>
+        <li>
+          <figure>
+            <img src="/images/graphics/dtd-3.webp" alt="FH Gameday" />
+            <figcaption>FH Gameday</figcaption>
+          </figure>
+        </li>
+        <li>
+          <figure>
+            <img src="/images/graphics/dtd-4.webp" alt="Valiants of the Week" />
+            <figcaption>Valiants of the Week</figcaption>
+          </figure>
+        </li>
+        <li>
+          <figure>
+            <img src="/images/graphics/dtd-5.webp" alt="Dual Hispanic Heritage Night" />
+            <figcaption>Dual Hispanic Heritage Night</figcaption>
+          </figure>
+        </li>
+      </ul>
+    </section>
   </section>
 {{ end }}

@@ -52,12 +52,14 @@ section#social-media {
   }
 }
 
-section#graphics {
+section#graphics,
+section#day-to-day {
   background-color: var(--section-color);
   padding-bottom: 2rem;
 }
 
-section#graphics > header {
+section#graphics > header,
+section#day-to-day > header {
   color: var(--accent-color);
 
   font-family: var(--impact-font);
@@ -99,11 +101,11 @@ section.examples > ul {
   gap: 1rem;
   box-sizing: border-box;
   width: 100%;
-  max-width: 60rem;
+  max-width: 80rem;
 
   li {
     width: 20%;
-    max-width: 12rem;
+    max-width: 16rem;
     list-style: none;
     margin: 0;
     padding: 0;
