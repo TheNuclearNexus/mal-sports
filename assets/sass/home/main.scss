@@ -9,49 +9,6 @@ section#gallery {
   margin:auto;
 }
 
-section#social-media {
-  display: flex;
-  flex-direction: column;
-
-  header {
-    display: flex;
-    justify-content: center;
-  }
-
-  .match {
-    text-align: center;
-  }
-
-  h2, h3 {
-    color: var(--accent-color);
-  }
-
-  .tweets {
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-    width: 100%;
-    
-    padding: 1rem 2rem;
-
-    justify-content: center;
-
-    gap: 1rem;
-
-    margin: 0;
-  }
-
-  .tweets > li {
-    list-style: none;
-
-    width: max-content;
-  }
-
-  .twitter-tweet {
-    max-width: 24rem !important;
-  }
-}
-
 section#graphics,
 section#day-to-day {
   background-color: var(--section-color);
@@ -71,6 +28,8 @@ section#day-to-day > header {
   margin: 0;
 
   h2 {
+    color: var(--accent-color);
+    font-family: var(--impact-font);
     border-bottom: 0.25rem solid var(--bold-color);
     width: max-content;
     padding: 0 1rem;
