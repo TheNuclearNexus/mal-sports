@@ -106,9 +106,9 @@
   {{ $i := .index }}
   {{ with .page }}
     <li data-index="{{ $i }}">
-      <img src="/images/posts/{{ .File.BaseFileName }}.webp" />
+      <a href="{{ partial "get-post-link.html" . }}"><img src="/images/posts/{{ .File.BaseFileName }}.webp" /></a>
       <header>
-        <a href="{{ .Path }}">{{ .Title }}</a>
+        <a href="{{ partial "get-post-link.html" . }}">{{ .Title }}</a>
       </header>
       <p>{{ .Summary }}</p>
     </li>

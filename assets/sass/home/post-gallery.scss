@@ -15,6 +15,19 @@
     width: 100%;
   }
 
+  .carasouel li > a {
+    display: block;
+    line-height: 0;
+
+    img {
+      transition: opacity 0.15s ease-out;
+    }
+
+    &:hover img {
+      opacity: 0.85;
+    }
+  }
+
   #more-posts {
     padding: 1rem;
     color: white;
