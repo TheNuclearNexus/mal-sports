@@ -1,4 +1,9 @@
-baseURL: '//malsports13.com/'
-languageCode: 'en-us'
+baseURL: '//malsports.com/'
+locale: 'en-us'
 title: 'Mal Sports 13'
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
 
