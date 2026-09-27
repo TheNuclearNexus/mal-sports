@@ -94,33 +94,40 @@ section.examples > ul {
   flex-direction: row;
   flex-wrap: nowrap;
   justify-content: center;
-  align-items: center;
+  align-items: flex-start;
 
   gap: 1rem;
   box-sizing: border-box;
   width: 100%;
-  max-width: 48rem;
+  max-width: 60rem;
 
   li {
-    width: 25%;
-    max-width: 11rem;
+    width: 20%;
+    max-width: 12rem;
     list-style: none;
     margin: 0;
     padding: 0;
   }
 
-  li > a {
-    display: block;
-    line-height: 0;
-    height: 100%;
+  figure {
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0.5rem;
   }
 
   img {
     height: auto;
     width: 100%;
-    aspect-ratio: 1 / 1;
-    object-fit: cover;
     display: block;
+  }
+
+  figcaption {
+    font-size: 0.85rem;
+    line-height: 1.25;
+    text-align: center;
+    color: var(--text-color);
   }
 
   position: relative;
@@ -132,6 +139,7 @@ section.examples > ul {
 
     li {
       width: 40%;
+      max-width: none;
     }
   }
 }
