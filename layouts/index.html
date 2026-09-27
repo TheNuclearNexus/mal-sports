@@ -5,6 +5,9 @@
 {{ end }}
 {{ define "main" }}
   <section id="gallery">
+    <header>
+      <h2>Recaps &amp; Releases</h2>
+    </header>
     {{ with .Site.GetPage "/posts" }}
       {{ partial "home/post-gallery.html" (sort (where .Pages "Params.hide_from_carousel" "ne" true) "Date" "desc" | first 6) }}
     {{ end }}
