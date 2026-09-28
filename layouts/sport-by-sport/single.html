@@ -1,0 +1,48 @@
+{{ define "meta" }}
+  {{ partial "sass" "sass/sport-by-sport.scss" }}
+  <title>{{ .Params.Title }}</title>
+{{ end }}
+
+{{ define "main" }}
+  <h1>{{ .Params.Title }}</h1>
+
+  <section class="sport-group">
+    <h2 class="sport-group-title">Women's Sports</h2>
+    {{ partial "sport-section" (dict "Site" .Site "title" "BASKETBALL" "categories" (slice "Women's Basketball")) }}
+    {{ partial "sport-section" (dict "Site" .Site "title" "VOLLEYBALL" "categories" (slice "Women's Volleyball")) }}
+    {{ partial "sport-section" (dict "Site" .Site "title" "FIELD HOCKEY" "categories" (slice "Field Hockey")) }}
+    {{ partial "sport-section" (dict "Site" .Site "title" "ICE HOCKEY" "categories" (slice "Women's Ice Hockey")) }}
+    {{ partial "sport-section" (dict "Site" .Site "title" "LACROSSE" "categories" (slice "Women's Lacrosse")) }}
+    {{ partial "sport-section" (dict "Site" .Site "title" "SOCCER" "categories" (slice "Women's Soccer")) }}
+    {{ partial "sport-section" (dict "Site" .Site "title" "SOFTBALL" "categories" (slice "Softball")) }}
+    {{ partial "sport-section" (dict "Site" .Site "title" "TENNIS" "categories" (slice "Women's Tennis")) }}
+    {{ partial "sport-section" (dict "Site" .Site "title" "XCTF" "categories" (slice "Women's XCTF" "Women's Cross Country" "Women's Track & Field")) }}
+  </section>
+
+  <section class="sport-group">
+    <h2 class="sport-group-title">Men's Sports</h2>
+    {{ partial "sport-section" (dict "Site" .Site "title" "BASEBALL" "categories" (slice "Baseball")) }}
+    {{ partial "sport-section" (dict "Site" .Site "title" "BASKETBALL" "categories" (slice "Men's Basketball")) }}
+    {{ partial "sport-section" (dict "Site" .Site "title" "ICE HOCKEY" "categories" (slice "Men's Ice Hockey")) }}
+    {{ partial "sport-section" (dict "Site" .Site "title" "LACROSSE" "categories" (slice "Men's Lacrosse")) }}
+    {{ partial "sport-section" (dict "Site" .Site "title" "SOCCER" "categories" (slice "Men's Soccer")) }}
+    {{ partial "sport-section" (dict "Site" .Site "title" "VOLLEYBALL" "categories" (slice "Men's Volleyball")) }}
+    {{ partial "sport-section" (dict "Site" .Site "title" "TENNIS" "categories" (slice "Men's Tennis")) }}
+    {{ partial "sport-section" (dict "Site" .Site "title" "XCTF" "categories" (slice "Men's XCTF" "Men's Cross Country" "Men's Track & Field")) }}
+    {{ partial "sport-section" (dict "Site" .Site "title" "GOLF" "categories" (slice "Men's Golf" "Golf")) }}
+  </section>
+
+  <script>
+    document.querySelectorAll('.sport-carousel').forEach(function (carousel) {
+      var track = carousel.querySelector('[data-track]');
+      var slides = track.children.length;
+      if (slides <= 1) return;
+      var index = 0;
+      function go() {
+        index = (index + 1) % slides;
+        track.style.transform = 'translateX(' + (-index * 100) + '%)';
+      }
+      setInterval(go, 4000);
+    });
+  </script>
+{{ end }}
