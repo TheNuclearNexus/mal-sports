@@ -22,34 +22,6 @@
   }
 }
 
-.sport-carousel {
-  position: relative;
-  width: 100%;
-  max-width: 40rem;
-  overflow: hidden;
-  border-radius: 0.25rem;
-  margin-bottom: 1rem;
-}
-
-.sport-track {
-  display: flex;
-  transition: transform 0.5s ease;
-}
-
-.sport-slide {
-  flex: 0 0 100%;
-  min-width: 100%;
-  line-height: 0;
-
-  img {
-    width: 100%;
-    height: auto;
-    aspect-ratio: 16 / 9;
-    object-fit: cover;
-    display: block;
-  }
-}
-
 .sport-links {
   list-style: none;
   padding: 0;

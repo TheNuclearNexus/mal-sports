@@ -13,15 +13,6 @@
 <section class="sport-section" data-sport="{{ $title }}">
   <h2>{{ $title }}</h2>
   {{ if $sorted }}
-    <div class="sport-carousel" data-carousel>
-      <div class="sport-track" data-track>
-        {{ range $sorted }}
-          <div class="sport-slide">
-            <img src="/images/posts/{{ .File.BaseFileName }}.webp" alt="{{ .Title }}" />
-          </div>
-        {{ end }}
-      </div>
-    </div>
     <ul class="sport-links">
       {{ range $sorted }}
         <li>
