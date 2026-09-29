@@ -2,6 +2,8 @@
 title: About Mallory Agner
 ---
 
+<a class="resume-link" href="/Agner-Resume.pdf" target="_blank" rel="noopener">View My Resume</a>
+
 I'm an Athletic Communications and Public Relations professional with a passion for the intersection of sports, storytelling, digital media, and mental health advocacy. I currently serve as an Assistant Director of Athletic Communications at Manhattanville University, where I work across all 23 varsity sports to provide comprehensive coverage, create engaging digital content, manage website updates, and support athletic events and media operations. My role includes developing gameday, countdown, player focus, and team focus graphics, maintaining accurate and timely website content, and collaborating with coaches and teams throughout the academic year.
 
 Prior to Manhattanville, I worked with James Madison University Athletic Communications, providing real-time social media updates and statistics across sports including football, field hockey, soccer, volleyball, basketball, lacrosse, baseball, and softball. Through this experience, I developed skills in live statistics, social media management, media communication, and operating DAKTRONICS and Statcrew systems.

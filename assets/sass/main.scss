@@ -64,6 +64,27 @@ li {
   }
 }
 
+.resume-link {
+  display: inline-block;
+  margin: 0 0 1.5rem;
+  padding: 0.5rem 1.25rem;
+  background-color: var(--accent-color);
+  color: #fff;
+  text-decoration: none;
+  font-family: var(--impact-font);
+  font-weight: 600;
+  border-radius: 0.25rem;
+  transition: filter 0.1s ease-out;
+
+  &:hover {
+    filter: brightness(95%);
+  }
+
+  &:active {
+    filter: brightness(85%);
+  }
+}
+
 nav ul {
   display: flex;
   flex-direction: row;
