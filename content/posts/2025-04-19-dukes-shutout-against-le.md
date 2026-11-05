@@ -1,6 +1,6 @@
 ---   
 title: Dukes Shutout in Final Game Against Lady Eagles  
-category: "Softball"  
+category: "Softball"
 date: 2025-04-19T10:00:00.000-0500  
 Summary: James Madison Softball was held to two hits in the loss of the series’ final game against Southern Miss, 2-0, Saturday morning in Veterans Memorial Park in conference play.    
 location: Harrisonburg, Va.  

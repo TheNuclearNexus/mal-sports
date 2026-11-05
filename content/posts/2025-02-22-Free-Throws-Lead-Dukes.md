@@ -1,6 +1,6 @@
 ---  
 title: Free Throws Lead Dukes to the Senior-Day Shutdown, 78-73  
-category: "Basketball"  
+category: "Men's Basketball"
 date: 2025-02-22T16:00:00.000-0500  
 summary: James Madison men’s basketball went 26-for-33 (.788) from the line to lock-in the senior day shutdown over Georgia Southern, 78-73.  
 location: Harrisonburg, Va.   

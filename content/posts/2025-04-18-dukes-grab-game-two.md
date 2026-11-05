@@ -1,6 +1,6 @@
 ---   
 title: Dukes Grab Game Two Against Lady Eagles  
-category: "Softball"  
+category: "Softball"
 date: 2025-04-18T17:00:00.000-0500  
 Summary: Senior ***Lily Romero*** and sophomore ***Payton List*** front three RBIs respectively in a 7-5 win over Southern Miss on Friday night in Veterans Memorial Park in Sun Belt action. 
 location: Harrisonburg, Va. 

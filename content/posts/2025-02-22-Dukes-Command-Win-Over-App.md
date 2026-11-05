@@ -1,6 +1,6 @@
 ---  
 title: Dukes Command Win Over App State to Clinch Sun Belt Regular Season Championship, 83-57  
-category: "Basketball"  
+category: "Women's Basketball"
 date: 2025-02-22T18:00:00.000-0500  
 summary: James Madison women’s basketball clinches Sun Belt Conference regular season champions title with the win over App State, 83-57.  
 location: Boone, Nc.   

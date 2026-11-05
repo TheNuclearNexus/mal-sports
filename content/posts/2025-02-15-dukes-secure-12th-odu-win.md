@@ -1,6 +1,6 @@
 ---  
 title: Dukes Women’s Basketball Push to 12th Straight Over ODU, 66-53  
-category: "Basketball"  
+category: "Women's Basketball"
 date: 2025-02-15 14:00:00.000-0500  
 summary: James Madison women’s basketball takes the 12th straight over Old Dominion led by redshirt junior ***Peyton McDaniel’s*** eighth 20-plus point game (23) of the season, 66-53, at the Atlantic Union Bank Center.   
 location: Harrisonburg, Va.   

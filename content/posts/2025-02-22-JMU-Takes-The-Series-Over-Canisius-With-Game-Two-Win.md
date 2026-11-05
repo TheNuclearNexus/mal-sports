@@ -1,6 +1,6 @@
 ---  
 title: JMU Takes the Series over Canisius with Game Two Win, 6-1  
-category: "Baseball"  
+category: "Baseball"
 date: 2025-02-22T14:00:00.000-0500  
 summary: James Madison baseball pitching staff shuts down Canisius only allowing two hits in game two to secure the series win at Eagle Field at Veterans Memorial Park, 6-1.  
 location: Harrisonburg, Va.   

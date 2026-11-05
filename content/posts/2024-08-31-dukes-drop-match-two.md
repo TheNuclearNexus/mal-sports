@@ -1,6 +1,6 @@
 ---
 title: The Dukes Drop Their Second Match of the LD&B Insurance Invitational, 2-3
-category: "Volleyball"
+category: "Women's Volleyball"
 date: 2024-08-31T12:00:00.000-0500
 summary: "JMU Volleyball dropped a back-and-forth five-set match against Stony Brook, 2-3."
 location: Harrisonburg, Va.

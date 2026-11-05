@@ -1,6 +1,6 @@
 ---  
 title: JMU Drops Series Opener Against App in Five, 8-0  
-category: "Softball"  
+category: "Softball"
 date: 2025-03-28T16:00:00.000-0500  
 summary:  James Madison University softball dropped the series opener against Appalachian State in five innings, 8-0, at Veterans Memorial Park on Friday evening.  
 location: Harrisonburg, Va.   

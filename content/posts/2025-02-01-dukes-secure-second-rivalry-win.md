@@ -1,6 +1,6 @@
 ---  
 title: The Dukes Secure Their Second Royal Rivalry Win of the Season, 68-54  
-category: "Basketball"  
+category: "Men's Basketball"
 date: 2025-02-01T16:00:00.000-0500  
 summary: James Madison men’s basketball held Old Dominion to eight offensive rebounds and 54 points in their second Royal Rivalry win of the season to grab their fourth win in a row, 68-54.  
 location: Harrisonburg, Va.   
